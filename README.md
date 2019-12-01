@@ -9,5 +9,6 @@ This is the repository for Homework 4 of Algorithmic Methods of Data Mining of G
 It contains:
 
 `main.ipynb`: a Jupyter notebook explaines choices we made throughout the homework.
+
 `hashing_lib.py`: suggested python file that contains functions for task 1.
 
