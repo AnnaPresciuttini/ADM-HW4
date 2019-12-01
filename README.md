@@ -12,3 +12,11 @@ It contains:
 
 `hashing_lib.py`: a python file that contains functions for task 1.
 
+`sorting_lib.py`: a python file that contains functions for task 2.
+
+`clustering_lib.py`: a python file that contains functions for task 3.
+
+`map_reduce_lib.py`: a python file that contains functions for Bonus Task.
+
+`theoretical_lib.py`: a python file that contains functions for task 4.
+
