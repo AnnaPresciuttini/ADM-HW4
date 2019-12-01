@@ -62,5 +62,5 @@ def kmeans_model(data,n):
         clusters, centroids=new_clusters, new_centroids
         new_clusters, new_centroids= get_clusters(centroids, data, n)
 
-    return clusters
+    return clusters, centroids
 
