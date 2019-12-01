@@ -6,4 +6,7 @@ This is the repository for Homework 4 of Algorithmic Methods of Data Mining of G
 - Moamen Abdrabbu
 - Nicolò Petrungaro
 
+It contains:
+
+`main.ipynb`: a Jupyter notebook explaines choices we made throughout the homework
 
